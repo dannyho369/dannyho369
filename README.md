@@ -1,4 +1,4 @@
-## Hi, I am Danny from VOTANIC 👋
+## Hi, I am Danny 👋
 
 ![](./program-meme/mygo/code-no-happy-ever.png)
 
